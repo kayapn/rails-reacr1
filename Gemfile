@@ -5,6 +5,8 @@ ruby '2.6.6'
 
 gem 'react-rails'
 
+gem 'marked-rails'
+
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
